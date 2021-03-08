@@ -1,3 +1,3 @@
 # other-
 
-<h1>  random images used in my projects </h1>
+<h3>  random images used in my projects </h3>
